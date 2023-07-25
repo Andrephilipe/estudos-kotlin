@@ -1,0 +1,16 @@
+package packageteste
+
+fun main (){
+	var i = 12
+	var e = 10
+	
+	var soma = i + e
+	
+	if(i == e){
+		print("teste i")
+		
+	}else{
+		print("teste errado")
+	}
+}
+

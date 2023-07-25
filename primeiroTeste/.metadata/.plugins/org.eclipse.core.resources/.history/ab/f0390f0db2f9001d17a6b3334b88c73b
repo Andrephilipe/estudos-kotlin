@@ -1,0 +1,15 @@
+fun main (){
+	
+	var numero = 1
+	var tera = 12
+	
+	var soma = numero + tera
+	
+	if(soma > 12){
+		println("test 12")
+		
+	}else{
+		println("teste2")
+	}
+	
+}

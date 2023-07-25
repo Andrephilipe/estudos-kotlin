@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\andre.p.cassiano\Java - Estudos da linguagem\Kotlin - Estudos da linguagem\primeiroTeste\.metadata\.plugins\org.eclipse.jdt.core
+2537036703.index
+1526953578.index
+823891963.index
+1865797976.index
+58110029.index
+370387566.index
+2336398477.index
+749296481.index
